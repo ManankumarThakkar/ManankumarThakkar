@@ -48,9 +48,10 @@
 
 <div align="center">
 
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=react&logoColor=61DAFB">](https://manankumarthakkar.github.io/portfolio/)
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=JavaScript&logoColor=61DAFB%22">](https://manankumarthakkar.github.io/portfolio/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:mananaiya@gmail.com)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/manankumar-t-93239a151/)
+[<img src="https://img.shields.io/badge/Whatsapp-%2300B300.svg?&style=for-the-badge&logo=Whatsapp&logoColor=white%22">](mailto:mananaiya@gmail.com)
 
 </div>
 

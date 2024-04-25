@@ -19,6 +19,7 @@
  ##### <h4 align="center">Schedule a meet <a href="https://calendly.com/mananthakkar/">Here </a> </h4> 
  ##### <h3 align="center">Reach me at **mananaiya@gmail.com**</h3>
 
+<div align="center">
  <div id="connect">
   <h2 align="left" style="display: flex; justify-content: center; align-items: center;">
     <img src="https://i.postimg.cc/Q9295TY4/social.gif" height="35" width="auto">
@@ -31,6 +32,7 @@
   <a href="https://api.whatsapp.com/send?phone=16673209836&text=Hi!%20Manan">
     <img src="https://user-images.githubusercontent.com/63473496/212668258-a33f94f5-0baf-4ab5-a2ac-83adafa8ecf0.gif" height="60" width="auto">
   </a>    
+</div>
 </div>
 
 <div align="center">

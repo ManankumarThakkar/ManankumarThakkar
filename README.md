@@ -32,7 +32,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
- <div id="connect" align="center">
+<!-- <div id="connect" align="center">
   <h2 align="center" style="display: flex; justify-content: center; align-items: center;">
     <img src="https://i.postimg.cc/Q9295TY4/social.gif" height="35" width="auto">
     <span>&nbsp;&nbsp;&nbsp;&nbsp;Connect with me on:</span>
@@ -44,7 +44,7 @@
   <a href="https://api.whatsapp.com/send?phone=16673209836&text=Hi!%20Manan">
     <img src="https://user-images.githubusercontent.com/63473496/212668258-a33f94f5-0baf-4ab5-a2ac-83adafa8ecf0.gif" height="60" width="auto">
   </a>    
-</div>
+</div> -->
 
 <div align="center">
 

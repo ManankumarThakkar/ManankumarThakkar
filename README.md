@@ -19,7 +19,7 @@
  ##### <h4 align="center">Schedule a meet <a href="https://calendly.com/mananthakkar/">Here </a> </h4> 
  ##### <h3 align="center">Reach me at **mananaiya@gmail.com**</h3>
 
- <div id="connect">
+ <div id="connect" align="center">
   <h2 align="center" style="display: flex; justify-content: center; align-items: center;">
     <img src="https://i.postimg.cc/Q9295TY4/social.gif" height="35" width="auto">
     <span>&nbsp;&nbsp;&nbsp;&nbsp;Connect with me on:</span>

@@ -1,4 +1,4 @@
-# Manankumar (Manan) Thakkar
+# Manankumar Thakkar
 
 **Backend and AI engineer.** I build distributed services — and the LLM and agent tooling that runs on top of them.
 

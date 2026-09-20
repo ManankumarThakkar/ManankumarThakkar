@@ -1,4 +1,4 @@
-<h1 align="center">Manankumar (Manan) Thakkar</h1>
+<h1 align="center">Manankumar Thakkar</h1>
 
 <p align="center">
   <strong>Software Engineer III</strong> · Walmart Global Tech · Bentonville, AR

@@ -97,6 +97,9 @@ once there is substantial public work.
   instead of re-deriving them, and never invent a metric or title.
 - `resume/Manankumar-Thakkar-Resume.pdf` is the committed resume linked from the
   header. It contains a phone number and city, permanently in git history.
+- **Canonical email is `mananaiya@gmail.com`. It is the only one.**
+  `thakkarmanan20@gmail.com` is retired — never reintroduce it anywhere
+  (README, resume, cover letters, LinkedIn, the resume-builder profile).
 - Contact surface is deliberately: email, LinkedIn, Calendly, WhatsApp.
 - **No portfolio link** until the new site ships. Both `mananthakkar.tech` and
   `manankumarthakkar.github.io/portfolio` were non-resolving as of 2026-09.
@@ -126,3 +129,23 @@ once there is substantial public work.
 - Public repos outside this session's scope can still be read: clone them
   anonymously through the git proxy with
   `GIT_LFS_SKIP_SMUDGE=1 git clone --depth 1 <url>`.
+
+## Profile hygiene (outside this repo)
+
+These cannot be done from a Claude Code session — GitHub exposes no API for
+them and no tool here covers them. They are UI actions for Manan, tracked here
+so they are not forgotten:
+
+- **Pin `mcp-observatory`** on <https://github.com/ManankumarThakkar> and unpin
+  the 2021–22 coursework repos (SWE645-HW2, Geroge-Mason-Survey-FullStack,
+  George-Mason-Survey-BackEnd, Forgot-Password-Reset-Angular,
+  Speech-Synthesis-TTS, Online-Quiz-using-Java, swe642). Pinned repos are what a
+  recruiter's eye lands on before any README text.
+- **Give `mcp-observatory` a description and topics.** As of 2026-09-21 it has
+  neither, and a pinned card renders the description — an empty one wastes the
+  pin. Suggested description: "Read-only security scanning for the MCP server
+  ecosystem, published with its own measured error rate. Pre-launch." Suggested
+  topics: `mcp`, `model-context-protocol`, `security`, `static-analysis`,
+  `supply-chain-security`, `python`.
+- Consider archiving the coursework repos rather than deleting them, so they
+  stop reading as current work.

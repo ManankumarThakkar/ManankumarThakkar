@@ -1,3 +1,5 @@
+<div align="center">
+
 # Manankumar Thakkar
 
 **Backend and AI engineer.** I build distributed services — and the LLM and agent tooling that runs on top of them.
@@ -17,7 +19,12 @@
 
 ## What I'm building now
 
-- **`mcp-observatory`** — tooling around MCP servers, built in the open. Going public once there's something worth reading.
+**[MCP Security Observatory](https://github.com/ManankumarThakkar/mcp-observatory)** — a security scanner for the Model Context Protocol ecosystem. AI coding assistants load MCP servers as plugins and run them with the developer's own privileges, usually with no sandbox and no review. It analyses published servers without ever executing them, and is built to publish its own error rate beside its findings: deterministic rules settle the clear-cut cases, a model adjudicates only genuinely ambiguous ones, and those judgements are scored against a hand-labelled set. Serious findings go to maintainers privately before anything is published.
+
+Python, zero runtime dependencies, CI across 3.11 and 3.12 with CodeQL. Pre-launch, built in the open.
+
+Alongside it:
+
 - **Agentic systems** — MCP tool design, agent routing, and the harder half: how you evaluate these systems and decide when to trust them in production.
 - **Backend at scale** — multi-tenant service design, query-path and caching performance, and the observability to prove a change worked.
 

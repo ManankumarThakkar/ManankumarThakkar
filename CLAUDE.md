@@ -78,12 +78,20 @@ once there is substantial public work.
 - **Internal Walmart work** (AuthForge, Wayfinder, service names) lives in
   company repos. Describe at resume level only — no links, no code, no internals
   beyond what the resume states — and keep it brief.
-- `mcp-observatory` is Manan's personal project. As of 2026-09 the repo is
-  **empty (zero commits)**, so it is named but deliberately **not hyperlinked** —
-  sending a recruiter to an empty repo is worse than no link. Add the link once
-  it has a real README. Its full description still needs to come from Manan; it
-  lives at `/Users/mananthakkar/projects/mcp-observatory` on his Mac, which is
-  not reachable from a web session.
+- **`mcp-observatory` is the flagship public project** and the page's main piece
+  of provable work: <https://github.com/ManankumarThakkar/mcp-observatory>, a
+  security scanner for the MCP server ecosystem. As of 2026-09-21 it has real
+  substance (analyzer with crawler/fetcher/scanner/CLI, 69 tests, CI on
+  3.11/3.12 with SHA-pinned actions, CodeQL, DECISIONS.md, a design spec), so it
+  **is now linked** — the earlier no-link rule applied only while the repo was
+  empty.
+  **Do not overclaim it.** The project is pre-launch and its own README
+  describes an intended layout, not a finished one. As of 2026-09-21: only 1 of
+  5 rules is implemented (`unicode_conceal`); `analyzer/triage/`,
+  `analyzer/report/` and `evals/harness/` do not exist; there is no tree-sitter
+  and no SARIF in the code (zero runtime dependencies); no ecosystem-wide
+  numbers are published. Describe the design and say pre-launch; never present
+  unbuilt stages as shipped. Re-verify before changing these claims.
 - **Canonical career data** — titles, dates, bullets, metrics — lives in the
   private `resume-builder` skill at `data/profile.json`. Source facts from there
   instead of re-deriving them, and never invent a metric or title.

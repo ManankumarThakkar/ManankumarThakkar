@@ -2,7 +2,7 @@
 
 # Manankumar Thakkar
 
-**Backend and AI engineer.** I build distributed services — and the LLM and agent tooling that runs on top of them.
+**Backend and AI engineer.** I build distributed services, and the LLM and agent tooling that runs on top of them.
 
 <kbd> Software Engineer </kbd> • <kbd> AI / Agentic Systems </kbd> • <kbd> Forward Deployed Engineer </kbd>
 
@@ -19,26 +19,24 @@
 
 ## What I'm building now
 
-**[MCP Security Observatory](https://github.com/ManankumarThakkar/mcp-observatory)** — a static scanner for the Model Context Protocol ecosystem. AI assistants load MCP servers as plugins and run them with your own privileges, usually with no sandbox and no review; this reads them without executing a line. Five tree-sitter taint rules cover shell execution, path traversal, tool-description injection, hidden Unicode, and over-broad scope. On the 2026-10-01 nightly: 1,639 servers scanned from a 2,000-repository sample of a 22,697-repository corpus, 975 findings, 804 of them withheld pending maintainer disclosure — a gate enforced in code, not promised in a policy. Nightly pipeline, SARIF output, and a [public dashboard](https://manankumarthakkar.github.io/mcp-observatory/). Rule accuracy is still being labelled, and the project says so on its own front page.
+**[MCP Security Observatory](https://github.com/ManankumarThakkar/mcp-observatory)** is a static scanner for the Model Context Protocol ecosystem. AI assistants load MCP servers as plugins and run them with your own privileges, usually with no sandbox and no review; this reads them without executing a line. Five tree-sitter taint rules cover shell execution, path traversal, tool-description injection, hidden Unicode, and over-broad scope. On the 2026-10-01 nightly: 1,639 servers scanned from a 2,000-repository sample of a 22,697-repository corpus, 975 findings, 804 of them withheld pending maintainer disclosure, a gate enforced in code rather than promised in a policy. Nightly pipeline, SARIF output, and a [public dashboard](https://manankumarthakkar.github.io/mcp-observatory/). Rule accuracy is still being labelled, and the project says so on its own front page.
 
-**[Escalation Gate](https://github.com/ManankumarThakkar/jev-escalation-gate)** — an evaluation harness for the question of how much work a small, cheap model can take off an expensive one, and how you would actually know. Across 600 SQuAD 2.0 items it showed that test-set construction alone swung accuracy 30.5 points, measured calibration error of 0.047 against a 0.039 noise floor, and identified a routing band that skips generation for 14.5% of passages. Manual review found 6 of the 10 most confident "failures" were benchmark label errors.
+**[Escalation Gate](https://github.com/ManankumarThakkar/jev-escalation-gate)** is an evaluation harness for the question of how much work a small, cheap model can take off an expensive one, and how you would actually know. Across 600 SQuAD 2.0 items it showed that test-set construction alone swung accuracy 30.5 points, measured calibration error of 0.047 against a 0.039 noise floor, and identified a routing band that skips generation for 14.5% of passages. Manual review found 6 of the 10 most confident "failures" were benchmark label errors.
 
 Alongside them:
 
-- **Agentic systems** — MCP tool design, agent routing, and the harder half: how you evaluate these systems and decide when to trust them in production.
-- **Backend at scale** — multi-tenant service design, query-path and caching performance, and the observability to prove a change worked.
+- **Agentic systems.** MCP tool design, agent routing, and the harder half: how you evaluate these systems and decide when to trust them in production.
+- **Backend at scale.** Multi-tenant service design, query-path and caching performance, and the observability to prove a change worked.
 
 ## What I'm looking for
 
-Software Engineer, AI Engineer, and Forward Deployed Engineer roles — teams shipping AI into real production systems, not demos.
-
-U.S.-based, currently on H-1B (transfer-eligible).
+Open to Software Engineer, AI Engineer, and Forward Deployed Engineer roles, across backend, distributed systems, platform, and applied AI.
 
 ## Selected impact
 
 - Cut API latency **60%** on production advertising microservices, eliminating **10,000+** redundant database calls a day.
 - Caught a key-grain design flaw during multi-tenant international expansion across 7+ partner orgs and prevented a **6x** cardinality collision.
-- Replaced a hand-assembled readiness report with an automated pipeline applying 13 business rules across **4,000+ stores** twice daily — validated to an exact match, surfacing 3 latent defects.
+- Replaced a hand-assembled readiness report with an automated pipeline applying 13 business rules across **4,000+ stores** twice daily, validated to an exact match and surfacing 3 latent defects.
 
 ## Stack
 
@@ -56,7 +54,7 @@ U.S.-based, currently on H-1B (transfer-eligible).
 
 ## Where I work
 
-Software Engineer III at **Walmart Global Tech** (Bentonville, AR), on the backend services behind in-store retail media — inventory reservation, store data, and device orchestration in Java and Spring Boot.
+Software Engineer III at **Walmart Global Tech**, on the backend services behind in-store retail media: inventory reservation, store data, and device orchestration in Java and Spring Boot.
 
 I also led a security-hardening push there, cutting production vulnerabilities 35% by clearing Snyk findings, removing hardcoded credentials, and automating secret rotation.
 

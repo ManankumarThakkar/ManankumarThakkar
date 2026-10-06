@@ -30,9 +30,7 @@ Alongside them:
 
 ## What I'm looking for
 
-Software Engineer, AI Engineer, and Forward Deployed Engineer roles, on teams shipping AI into real production systems rather than demos.
-
-U.S.-based, currently on H-1B (transfer-eligible).
+Open to Software Engineer, AI Engineer, and Forward Deployed Engineer roles, across backend, distributed systems, platform, and applied AI.
 
 ## Selected impact
 
